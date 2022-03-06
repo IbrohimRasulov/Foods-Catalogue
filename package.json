@@ -1,0 +1,23 @@
+{
+  "name": "foods-catalogue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build src/style.css -o public/output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrohimRasulov/Foods-Catalogue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrohimRasulov/Foods-Catalogue/issues"
+  },
+  "homepage": "https://github.com/IbrohimRasulov/Foods-Catalogue#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
